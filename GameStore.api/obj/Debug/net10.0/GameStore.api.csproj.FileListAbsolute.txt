@@ -26,3 +26,4 @@ C:\Users\Mrullldhm\OneDrive\Desktop\C#\GameStore.api\obj\Debug\net10.0\refint\Ga
 C:\Users\Mrullldhm\OneDrive\Desktop\C#\GameStore.api\obj\Debug\net10.0\GameStore.api.pdb
 C:\Users\Mrullldhm\OneDrive\Desktop\C#\GameStore.api\obj\Debug\net10.0\GameStore.api.genruntimeconfig.cache
 C:\Users\Mrullldhm\OneDrive\Desktop\C#\GameStore.api\obj\Debug\net10.0\ref\GameStore.api.dll
+c:\Users\Mrullldhm\OneDrive\Desktop\C#\GameStore.api\obj\Debug\net10.0\GameStore.api.sourcelink.json
